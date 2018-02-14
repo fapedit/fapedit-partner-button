@@ -83,7 +83,7 @@ Pl.: `genFapeditPartnerButton({caption: 'branding', scale: 'small'});`
 ### VAGY
 
 * `float scale`:
-a gomb mérete (a textúra átméretezése szerint)
+a gomb mérete (a textúra átméretezése szerint),
 `]0;1]` valós intervallumból javasolt értékkel
 
 Pl.: `genFapeditPartnerButton({caption: 'branding', scale: .6312});`
@@ -115,8 +115,8 @@ Ahol a `<hívási paraméterek>` az alábbiak:
 > Innentől kezdve következnek a szerkeszthető paraméterek
 
 3. `string js_path`:
-a partner-button.js fájl elérési útvonala
-A FAPEDIT üzemeltetői által biztosított hivatalos elérési útvonalak:
+a partner-button.js fájl elérési útvonala,
+a FAPEDIT üzemeltetői által biztosított hivatalos elérési útvonalak:
     * `http://static.fapedit.hu/js/partner-button/1.0/partner-button.js` (alapértelmezett)
     * `http://static.fapedit.hu/js/partner-button/1.0/partner-button.min.js`
 
