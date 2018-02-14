@@ -3,6 +3,8 @@ A partner-button.js egy olyan publikus JavaScript könyvtár, aminek a segítsé
 
 Vegye fel velünk a kapcsolatot a fapedit@fapedit.hu email címen!
 
+Interaktív demonstráció: http://run.plnkr.co/plunks/4OAdOo7gqN0YgFTUPXCy/
+
 ---
 
 A partner-button.js felhasználásához az alábbi hívókód elhelyezése **szükséges** a weboldalon (jellemzően a `<head>` fejlécbe):
